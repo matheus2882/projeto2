@@ -1,0 +1,10 @@
+.cabeçalho__menu-um{
+    width: 24px;
+    height: 24px;
+    background-image: url(../img/image\ 1.svg);
+    display: inline-block;
+}
+
+.cabeçalho{
+    background-color:var(--preto);
+}
